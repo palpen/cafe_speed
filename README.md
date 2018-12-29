@@ -9,9 +9,7 @@ Pasting into Google Sheets:
 ### Usage
 
 ```bash
-python get_speed.py -n NUM_RUN_TEST
-					-cn CAFE_NAME
-					-ca CAFE_ADDRESS
+python get_speed.py -n NUM_RUN_TEST -cn CAFE_NAME -ca CAFE_ADDRESS
 ```
 
 ### Units of measurement
