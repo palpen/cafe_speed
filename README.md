@@ -1,5 +1,5 @@
 # Get Wifi Speed
-Short script to get network performance and print result in standard output which can then be copied and pasted into a spreadsheet.
+Short script to get network performance and print result to standard output which can then be copied and pasted into a spreadsheet.
 
 Goal is to get network performance of all the cafes in my neighborhood to know which one I should visit more frequently.
 
