@@ -12,6 +12,11 @@ Pasting into Google Sheets:
 python get_speed.py -n NUM_RUN_TEST -cn CAFE_NAME -ca CAFE_ADDRESS
 ```
 
+### Output format
+```
+"cafe name", "address", timestamp, download_speed, upload_speed, ping, number_test_run
+```
+
 ### Units of measurement
 	download: in bytes
 	upload: in bytes
