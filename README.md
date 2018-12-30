@@ -30,4 +30,5 @@ python get_speed.py -n NUM_RUN_TEST -cn CAFE_NAME -ca CAFE_ADDRESS
 * speedtest
 
 ### To do:
+* Add coordinates for visualization
 * Export raw data into a json file
